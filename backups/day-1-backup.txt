@@ -1,0 +1,9 @@
+This is my first text. I have never written on nano text editor before!!
+some commands and their functions
+
+	Command			Function
+	mkdir			Used for creating folder
+	touch			For creating files
+	nano			To open a pad on the command and write some texts
+	cat			to open the text written in the nano pad
+

@@ -1,0 +1,30 @@
+This is my first text. I have never written on nano text editor before!!
+some commands and their functions
+
+	Command	 		Function
+	mkdir		  	Used for creating folder
+	touch			For creating files
+	nano			To open a pad on the command and write some texts
+	cat			to open the text written in the nano pad
+
+mv					the mv is used to change a files name and also to move a																file to another	location
+
+
+mv can be used to change a file name and also a folder name 
+
+The mv and cp commands can be used to put files into a directory
+
+
+While moving a file or folder from one directory to another, mv will move the file alone while cp will copy the file to another directory which means the file will still exist in the previous directory and the new place moved it too
+
+To move multiple files from a directory to another we will need to include -t to mv (mv -t). this denotes that we are moving multiple files of folder
+
+I tried moving to backward directory, and I realise it is impossible than to include (-t) with mv
+
+(rmdir) is for removing folder while only (rm) is for removing a file 
+
+to copy a whole folder to a new one (cp -r (existed folder) (new folder to be created))
+
+rm -rf (name of folder), used to remove folder
+
+Congratulations! Now you knew basic command lines
