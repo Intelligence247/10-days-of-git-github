@@ -1,0 +1,20 @@
+Configure your name and your email
+Open the Git bash if your device is Windows, or open the Mac terminal if your device is MacOS and then write the following commands
+
+git config --global user.name 'yourname'
+git config --global user.email 'youremail'
+
+After doing git init
+then the next step can be (git add .) which I usually use most of the times, 
+But it we can also use 
+git add fileName
+
+in this process the file added will be the only one to be pushed to github
+
+multiple files can be added
+git add fileName1 fileName2 fileName3
+
+wow It is even possible to add and commit at same time see the command below
+  git commit -am 'commit message'
+
+7.
