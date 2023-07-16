@@ -47,4 +47,7 @@ git checkout -b branch-name
     git branch
 
 17. Push
-Combining these components, the git push -u origin master command pushes the local "master" branch to the "origin" remote repository and sets the upstream relationship, so future pushes and pulls can be done with shorthand commands.
+Combining these components, the (git push -u origin main) command pushes the local "main" branch to the "origin" remote repository and sets the upstream relationship, so future pushes and pulls can be done with shorthand commands.
+
+Now I can see the importance of upstream and it is very interesting
+
