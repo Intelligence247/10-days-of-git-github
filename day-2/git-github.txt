@@ -18,6 +18,4 @@ wow It is even possible to add and commit at same time see the command below
   git commit -am 'commit message'
 
 7.
-
-I want to test the staging of files
-Another trial this time around God ooo
+Now number seven begins
