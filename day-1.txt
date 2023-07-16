@@ -1,0 +1,15 @@
+This is my first text. I have never written on nano text editor before!!
+some commands and their functions
+
+	Command	 		Function
+	mkdir		  	Used for creating folder
+	touch			For creating files
+	nano			To open a pad on the command and write some texts
+	cat			to open the text written in the nano pad
+
+mv					the mv is used to change a files name and also to move a																file to another	location
+
+
+mv can be used to change a file name and also a folder name 
+
+The mv and cp commands can be used to put files into a directory
