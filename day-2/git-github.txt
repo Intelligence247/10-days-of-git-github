@@ -17,5 +17,33 @@ git add fileName1 fileName2 fileName3
 wow It is even possible to add and commit at same time see the command below
   git commit -am 'commit message'
 
-7.
-Now number seven begins
+7. And now the unstage has been practice confirmed on gihub also
+
+One thing I will remind my self is while trying to unstage a file, make sure on the right directory, While having issue I realise I was not on the right directory then I tried this (git reset HEAD day-1/day-1.txt).
+
+Don't forget this is what unstage means, Unstage will remove a file from pushing the changes to gihub, any chnaged made on that file will not show on github
+
+if for Example I have a folder in my project named day-2, and there are a lot of files there which I want to unstage them all, I can run this command (git reset HEAD day-2/)
+Although it is impossible to unstage a folder but a hack to unstage all files inside a folder. lol, let's go!!!
+
+
+8. (git log) is used to see the history of your pushes to github, it shows the time and date in full
+
+(git log -5 or git log -n 5) will check history upto five previous commit
+git log --oneline
+it also show the history of commit
+The git log --oneline command allows to list minified log history
+
+13. Creating a branch
+We can create a copy of the master(main) using a branch. You built an awesome application. You like to keep this awesome application as it is but you like to add some features. This is the time, you need branching the master. The branch is the copy of the master at branching instant. After branching, the branch and the master don't see each other. You can create as many branches as you want.
+
+* Only to create a branch
+git branch branch-name
+
+* To create and checkout to the branch at the same time
+git checkout -b branch-name
+
+* To list down all the branches:
+    git branch
+
+14. 
