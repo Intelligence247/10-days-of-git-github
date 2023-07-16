@@ -28,3 +28,6 @@ to copy a whole folder to a new one (cp -r (existed folder) (new folder to be cr
 rm -rf (name of folder), used to remove folder
 
 Congratulations! Now you knew basic command lines
+
+
+Trying to unstage this file
