@@ -1,0 +1,1 @@
+Familiarize yourself with your GitHub account and available repository features. Git has account setting and repository setting. Navigate through the available features.
