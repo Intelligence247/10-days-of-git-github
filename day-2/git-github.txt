@@ -85,3 +85,7 @@ the two commands can be used
 
 * To delete remote branch
 git push <remote_name> :<branch_name>
+
+23. THe .gitignore file
+
+Any file you committed could be pushed to a remote repository but sometimes you may not want to push everything you have on your local repository. For instance sensitive data such as email, password, bank account, API Keys and others. Therefore, any files or folders that is listed on the .ignore file will not be tracked by Git. Create a .ignore file on the top level of your project directory, on this file put file names or folder you would like to ignore
