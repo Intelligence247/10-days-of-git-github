@@ -72,3 +72,12 @@ To create a nested list using the web editor on GitHub or a text editor that use
 
    ### 14. Mentioning people and team
    @github/support What do you think about these updates?
+
+ ### 15.Using emoji
+ You can add emoji to your writing by typing :EMOJICODE:, a colon followed by the name of the emoji.
+
+ @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+ Another emoji :o: :m: :v:
+
+ ### 16.Paragraphs
+ 
